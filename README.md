@@ -18,7 +18,7 @@ If anything goes wrong with the environment, please check requirements.txt for d
 链接: https://pan.baidu.com/s/1XrDpcsRAHAXRT4HQik0prA?pwd=YS98 提取码: YS98
 
 # Training & Testing
-modify the train_root train_root save_path path in config.py according to your own data path.
+modify the train_root val_root save_path test_path in config.py according to your own data path.
 
 Train the AFRNet:
 
