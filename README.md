@@ -6,9 +6,9 @@ Python 3.7+, Pytorch 1.5.0+, Cuda 10.2+, TensorboardX 2.1, opencv-python
 If anything goes wrong with the environment, please check requirements.txt for details.
 
 # Architecture and Details
-![image](https://github.com/user-attachments/assets/59c68bce-a068-4c31-a138-b4ecb319be72)
-![image](https://github.com/user-attachments/assets/049a02df-b015-4c3f-bee2-eda8c43d39ab)
-![image](https://github.com/user-attachments/assets/40755221-d1c9-413e-9710-9e55421cffab)
+![image](https://github.com/user-attachments/assets/c16c13cd-4072-4cd4-b8e5-7e1a839c6433)
+![image](https://github.com/user-attachments/assets/eff902a2-c0dc-4703-99c0-977bfd2ea93b)
+![image](https://github.com/user-attachments/assets/00ae6804-0f8e-4e83-9d9b-b1d9cfdb2f7f)
 
 # Results
 ![image](https://github.com/user-attachments/assets/4c532825-c3e6-470a-a20c-03c95fbd5a1c)
