@@ -14,7 +14,7 @@ from torch.utils.data import DataLoader
 # from dataset import get_loader,test_dataset
 import logging
 import torch.backends.cudnn as cudnn
-from config_distill import opt
+from config import opt
 from torch.cuda import amp
 cudnn.benchmark = True
 cudnn.enabled = True
