@@ -15,7 +15,7 @@ If anything goes wrong with the environment, please check requirements.txt for d
 ![image](https://github.com/user-attachments/assets/5d9cbaaf-4b53-47fa-9548-4a33b32fe8fd)
 
 # Data Preparation
-链接: https://pan.baidu.com/s/1XrDpcsRAHAXRT4HQik0prA?pwd=YS98 提取码: YS98
+[数据集链接][链接: https://pan.baidu.com/s/1XrDpcsRAHAXRT4HQik0prA?pwd=YS98]
 
 # Training & Testing
 modify the train_root val_root save_path test_path in config.py according to your own data path.
