@@ -15,7 +15,7 @@ If anything goes wrong with the environment, please check requirements.txt for d
 ![image](https://github.com/user-attachments/assets/5d9cbaaf-4b53-47fa-9548-4a33b32fe8fd)
 
 # Data Preparation
-[数据集链接](https://pan.baidu.com/s/1XrDpcsRAHAXRT4HQik0prA?pwd=YS98)
+数据集： [数据集链接](https://pan.baidu.com/s/1XrDpcsRAHAXRT4HQik0prA?pwd=YS98)
 
 # Training & Testing
 modify the train_root val_root save_path test_path in config.py according to your own data path.
@@ -36,11 +36,11 @@ Implemented through evaluate.py, specific predictions can be obtained by setting
 
 # Saliency Maps and Weights
 
-链接: https://pan.baidu.com/s/1lFnIqVR6brI0T2unYOBxUg?pwd=4pfh 提取码: 4pfh
+百度网盘链接：[Saliency Maps and Weights](链接: https://pan.baidu.com/s/1lFnIqVR6brI0T2unYOBxUg?pwd=4pfh 提取码: 4pfh)
 
 # Pretraining Models
 
-链接: https://pan.baidu.com/s/1AbfpKgbTJPFJFWrxyQAzhw?pwd=j51m 提取码: j51m
+百度网盘链接: [Pretraining Models](https://pan.baidu.com/s/1AbfpKgbTJPFJFWrxyQAzhw?pwd=j51m 提取码: j51m)
 
 # Contact
 Please drop me an email for any problems or discussion: https://wujiezhou.github.io/ (wujiezhou@163.com) or wysss1998@163.com
