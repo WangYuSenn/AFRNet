@@ -36,11 +36,11 @@ Implemented through evaluate.py, specific predictions can be obtained by setting
 
 # Saliency Maps and Weights
 
-百度网盘链接：[Saliency Maps and Weights](链接: https://pan.baidu.com/s/1lFnIqVR6brI0T2unYOBxUg?pwd=4pfh 提取码: 4pfh)
+百度网盘链接：[Saliency Maps and Weights](https://pan.baidu.com/s/1lFnIqVR6brI0T2unYOBxUg?pwd=4pfh)
 
 # Pretraining Models
 
-百度网盘链接: [Pretraining Models](https://pan.baidu.com/s/1AbfpKgbTJPFJFWrxyQAzhw?pwd=j51m 提取码: j51m)
+百度网盘链接: [Pretraining Models](https://pan.baidu.com/s/1AbfpKgbTJPFJFWrxyQAzhw?pwd=j51m)
 
 # Contact
 Please drop me an email for any problems or discussion: https://wujiezhou.github.io/ (wujiezhou@163.com) or wysss1998@163.com
